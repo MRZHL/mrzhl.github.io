@@ -6,7 +6,7 @@ email: zhuhualinlf@icloud.com
 description: "吾日三省吾身"
 keyword: "zhuhualin,化林的博客, zhuhualin, 祝化林, iOS, Apple, iPhone"
 url: "https://mrzhl.github.io"          # your host, for absolute URL
-baseurl: "/zhuhualin.github.io"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/MRZHL/zhuahulin.github.io.git" # you code repository
 
 
