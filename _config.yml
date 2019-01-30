@@ -15,7 +15,7 @@ github_repo: "https://github.com/MRZHL/zhuahulin.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "简单就是美!"
-sidebar-avatar: https://mrzhl.github.io/zhuhualin.github.io/img/about-me.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-me.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
